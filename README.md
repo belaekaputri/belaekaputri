@@ -16,11 +16,13 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/belaekaputri"><img src="https://github-readme-stats.vercel.app/api?username=belaekaputri&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="belaekaputri's GitHub stats" /></a>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=belaekaputri&show_icons=true&locale=en&layout=compact" alt="belaekaputri" />
 
-<a href="https://github.com/belaekaputri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belaekaputri&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/belaekaputri"><img src="https://github-readme-stats.vercel.app/api?username=belaekaputri&show_icons=true&hide=&count_private=true&show_icons=true" alt="belaekaputri's GitHub stats" /></a>
+
