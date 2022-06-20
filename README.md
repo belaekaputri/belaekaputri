@@ -5,7 +5,7 @@
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on open source project
-- :smile: Thank You
+- :smile: My Portfolio: [Front End Web](https://github.com/belaekaputri/FRONT-END) || [Back End Web]()
 ### Skills
 
 <p align="left">
