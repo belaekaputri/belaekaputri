@@ -2,10 +2,10 @@
 
 ### About  
 - 👋 Hi, I’m Bela
-- 👀 I’m interested in Web Programming
+- 👀 I’m interested in Front End Web Development 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on open source project
-- :smile: My Portfolio: [Front End Web](https://github.com/belaekaputri/FRONT-END) || [Back End Web]()
+- :smile: My Portfolio: [Front End Web](https://github.com/belaekaputri/FRONT-END) 
 ### Skills
 
 <p align="left">
