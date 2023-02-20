@@ -2,7 +2,7 @@
 
 ### About  
 - 👋 Hi, I’m Bela
-- 👀 I’m interested in Front End Web Development 
+- 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on open source project
 - :smile: My Portfolio: [Front End Web](https://github.com/belaekaputri/FRONT-END) 
@@ -23,7 +23,7 @@
 
 <!--### My GitHub Stats-->
 
-<!--<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=belaekaputri&show_icons=true&locale=en&layout=compact" alt="belaekaputri" />-->
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=belaekaputri&show_icons=true&locale=en&layout=compact" alt="belaekaputri" />
 
 <!--<a href="http://www.github.com/belaekaputri"><img src="https://github-readme-stats.vercel.app/api?username=belaekaputri&show_icons=true&hide=&count_private=true&show_icons=true" alt="belaekaputri's GitHub stats" /></a>-->
 
