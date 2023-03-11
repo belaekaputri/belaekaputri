@@ -1,14 +1,14 @@
-<h1 align="center"> &lt;Hi There/&gt; </h1><br>
-
-### About  
+<h1 align="center"> &lt;Hi There/&gt; </h1><br>  
+  
 - 👋 Hi, I’m Bela
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning JavaScript, PHP
 - 💞️ I’m looking to collaborate on open source project
 - :smile: My Portfolio: [Front End Web](https://github.com/belaekaputri/FRONT-END) || [Back End Web](https://github.com/belaekaputri/BACK-END)
 - 🖥️ Contact: [Fiverr](https://www.fiverr.com/share/8m36bZ) || [Sololearn](https://www.sololearn.com/profile/8431721/?ref=app) || [HackerRank](https://www.hackerrank.com/pbe729)
-### Skills
-
+<!--<hr style="border:1px solid red;"/> -->
+<h1></h1>
+ <br>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -19,6 +19,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
+<h1></h1>
 
 
 <!--### My GitHub Stats-->
