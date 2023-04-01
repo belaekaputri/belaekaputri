@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript, PHP
 - 💞️ I’m looking to collaborate on open source project
 - :smile: My Portfolio: [Front End Web](https://github.com/belaekaputri/FRONT-END) || [Back End Web](https://github.com/belaekaputri/BACK-END)
-- 🖥️ Contact: [Fiverr](https://www.fiverr.com/share/8m36bZ) || [Sololearn](https://www.sololearn.com/profile/8431721/?ref=app) || [HackerRank](https://www.hackerrank.com/pbe729)
+- 🖥️ Contact: [Fiverr](https://www.fiverr.com/share/8m36bZ) || [HackerRank](https://www.hackerrank.com/pbe729)
 <!--<hr style="border:1px solid red;"/> -->
 <h1></h1>
  <br>
