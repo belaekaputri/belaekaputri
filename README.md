@@ -2,7 +2,7 @@
   
 - 👋 Hi, I’m Bela
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning JavaScript, PHP
+- 🌱 I’m currently learning JavaScript, TypeScript, and PHP
 - 💞️ I’m looking to collaborate on open source project
 - :smile: My Portfolio: [Front End Web](https://github.com/belaekaputri/FRONT-END) || [Back End Web](https://github.com/belaekaputri/BACK-END)
 - 🖥️ Contact: [Fiverr](https://www.fiverr.com/share/8m36bZ) || [HackerRank](https://www.hackerrank.com/pbe729)
