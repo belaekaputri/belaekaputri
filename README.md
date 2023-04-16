@@ -1,6 +1,6 @@
 <h1 align="center"> &lt;Hi There/&gt; </h1><br>  
   
-- 👋 Hi, I’m Bela
+- 👋 I’m Bela
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning JavaScript, TypeScript, and PHP
 - 💞️ I’m looking to collaborate on open source project
