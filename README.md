@@ -2,12 +2,12 @@
   
 - 👋 I’m Bela
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning JavaScript, TypeScript, and PHP
+- 🌱 I’m currently learning JavaScript(Vue.js & React.js), TypeScript, and PHP(Laravel)
 - :smile: My Portfolio: [Front End Web](https://github.com/belaekaputri/FRONT-END) || [Back End Web](https://github.com/belaekaputri/BACK-END)
 - 🖥️ Contact: [Fiverr](https://www.fiverr.com/share/8m36bZ) || [HackerRank](https://www.hackerrank.com/pbe729)
 <!--<hr style="border:1px solid red;"/> -->
-<h1></h1>
- <br>
+
+ <!--
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -21,7 +21,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="36" /></a> 
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="36" /></a> 
 </p>
-<h1></h1>
+-->
 
 
 <!--### My GitHub Stats-->
