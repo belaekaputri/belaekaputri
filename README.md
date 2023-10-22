@@ -1,4 +1,4 @@
-<h1 align="center"> &lt;Hi There/&gt; </h1><br>  
+<!--<h1 align="center"> &lt;Hi There/&gt; </h1><br>  
   
 - 👋 I’m Bela
 - 👀 I’m interested in Web Development 
