@@ -1,4 +1,4 @@
-<!--<h1 align="center"> &lt;Hi There/&gt; </h1><br>  
+<h1 align="center"> &lt;Hi There/&gt; </h1><br>  
   
 - 👋 I’m Bela
 - 👀 I’m interested in Web Development 
@@ -25,7 +25,7 @@
 
 <!--### My GitHub Stats-->
 
-<!--<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=belaekaputri&show_icons=true&locale=en&layout=compact" alt="belaekaputri" />-->
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=belaekaputri&show_icons=true&locale=en&layout=compact" alt="belaekaputri" />
 
 <!--<a href="http://www.github.com/belaekaputri"><img src="https://github-readme-stats.vercel.app/api?username=belaekaputri&show_icons=true&hide=&count_private=true&show_icons=true" alt="belaekaputri's GitHub stats" /></a>-->
 
