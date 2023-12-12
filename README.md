@@ -1,7 +1,6 @@
 <h1 align="center"> &lt;Hi There/&gt; </h1><br>  
   
 -  I’m Bela
--  I’m interested in Web Development 
 - My Portfolio: [Front End Web](https://github.com/belaekaputri/FRONT-END) || [Back End Web](https://github.com/belaekaputri/BACK-END)
 <!-- 🖥️ Contact: [Fiverr](https://www.fiverr.com/share/8m36bZ) || [HackerRank](https://www.hackerrank.com/pbe729)-->
 <!--<hr style="border:1px solid red;"/> -->
