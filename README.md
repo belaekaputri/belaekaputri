@@ -1,8 +1,8 @@
 <h1 align="center"> &lt;Hi There/&gt; </h1><br>  
   
-- 👋 I’m Bela
-- 👀 I’m interested in Web Development 
-- :smile: My Portfolio: [Front End Web](https://github.com/belaekaputri/FRONT-END) || [Back End Web](https://github.com/belaekaputri/BACK-END)
+-  I’m Bela
+-  I’m interested in Web Development 
+- My Portfolio: [Front End Web](https://github.com/belaekaputri/FRONT-END) || [Back End Web](https://github.com/belaekaputri/BACK-END)
 <!-- 🖥️ Contact: [Fiverr](https://www.fiverr.com/share/8m36bZ) || [HackerRank](https://www.hackerrank.com/pbe729)-->
 <!--<hr style="border:1px solid red;"/> -->
 
@@ -25,7 +25,7 @@
 
 <!--### My GitHub Stats-->
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=belaekaputri&show_icons=true&locale=en&layout=compact" alt="belaekaputri" />
+<!--<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=belaekaputri&show_icons=true&locale=en&layout=compact" alt="belaekaputri" />
 
-<!--<a href="http://www.github.com/belaekaputri"><img src="https://github-readme-stats.vercel.app/api?username=belaekaputri&show_icons=true&hide=&count_private=true&show_icons=true" alt="belaekaputri's GitHub stats" /></a>-->
+<a href="http://www.github.com/belaekaputri"><img src="https://github-readme-stats.vercel.app/api?username=belaekaputri&show_icons=true&hide=&count_private=true&show_icons=true" alt="belaekaputri's GitHub stats" /></a>-->
 
